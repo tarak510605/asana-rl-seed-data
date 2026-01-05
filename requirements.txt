@@ -1,0 +1,31 @@
+# Asana Seed Data Generator - Python Dependencies
+#
+# =============================================================================
+# NO EXTERNAL DEPENDENCIES REQUIRED
+# =============================================================================
+# This project uses ONLY Python 3.7+ standard library.
+# Running "pip install -r requirements.txt" will succeed but install nothing.
+#
+# Standard library modules used:
+# - sqlite3, uuid, datetime, random, pathlib, typing, configparser, logging
+#
+# =============================================================================
+# SETUP & USAGE
+# =============================================================================
+#
+# Setup (choose one):
+#   ./setup.sh                    # Automated setup script
+#   pip install -r requirements.txt  # Manual (installs nothing, verifies pip works)
+#
+# Generate Database:
+#   python3 -m src.main
+#
+# Verify Database:
+#   python3 verify.py
+#
+# Configuration:
+#   Edit config.ini to customize generation parameters
+#
+# =============================================================================
+# NO API KEYS REQUIRED - All data generated locally
+# =============================================================================
