@@ -1,6 +1,6 @@
 # Asana RL Seed Data Generator
 
-A Python project that generates realistic seed data for an Asana-like project management system. Created for a Research Scientist Internship take-home assignment.
+A Python project that generates realistic seed data for an Asana-like project management system. 
 
 ## Overview
 
